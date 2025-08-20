@@ -1,7 +1,7 @@
 <div align="center">
-  ![snake gif](https://github.com/ISunDevIl/ISunDevIl/blob/output/github-snake-dark.svg)
+  
 </div>
-
+![snake gif](https://github.com/ISunDevIl/ISunDevIl/blob/output/github-snake-dark.svg)
 <h2 align="center">...........</h2>
 
 ###
