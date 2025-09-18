@@ -1,11 +1,10 @@
-<div align = "center">
+<div align="center">
   <h2>Bao nhiêu mùa thu đã chết, nhưng đau đớn còn đây.</h2>
 </div>
 
-
-###
-
-###
+<div align="center">
+  <img src="https://i.pinimg.com/originals/c2/b9/de/c2b9de690bd07fbfd3dd997002460254.gif" style="width=800, height=446" alt="Pixel art anime GIF">
+</div>
 
 <div align="center">
   <picture>
@@ -14,6 +13,3 @@
     <img alt="github-snake" src="https://github.com/ISunDevIl/ISunDevIl/blob/output/github-snake.svg" />
   </picture>
 </div>
-  
-
-
