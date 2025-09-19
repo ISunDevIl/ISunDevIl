@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c2/b9/de/c2b9de690bd07fbfd3dd997002460254.gif" style="width=800, height=446" alt="Pixel art anime GIF">
+  <img src="https://64.media.tumblr.com/ca0443f9fcff0f656ec88cb857226887/c30ae82b9351b39d-90/s1280x1920/2232ee090ccc0f75dd44605803ef17357de123f6.gifv" style="width=800, height=446" alt="Pixel art anime GIF">
 </div>
 
 <div align="center">
