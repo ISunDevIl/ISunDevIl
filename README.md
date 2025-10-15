@@ -1,9 +1,9 @@
 <div align="center">
-  <h2>Bao nhiêu mùa thu đã chết, nhưng đau đớn còn đây.</h2>
+  <h2>36 mảnh đất anh hùng, 12 đôi dép mất cùng 1 đêm.</h2>
 </div>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/ca0443f9fcff0f656ec88cb857226887/c30ae82b9351b39d-90/s1280x1920/2232ee090ccc0f75dd44605803ef17357de123f6.gifv" style="width=800, height=446" alt="Pixel art anime GIF">
+  <img src="https://64.media.tumblr.com/677428305a191be6292b953c224eaa14/2b8f60ec92192a15-be/s640x960/9b0a5b52157eddeb084b7a722507e7255de38270.gifv" style="width=800, height=446" alt="Pixel art anime GIF">
 </div>
 
 <div align="center">
