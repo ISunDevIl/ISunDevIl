@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>36 mảnh đất anh hùng, 12 đôi dép mất cùng 1 đêm.</h2>
+  <h2>Xuân chạy Hạ đi, Thu dừng Đông lùi lại .</h2>
 </div>
 
 <div align="center">
