@@ -1,9 +1,12 @@
 <div align="center">
-  <h2>Xuân chạy Hạ đi, Thu dừng Đông lùi lại .</h2>
+  <h2>
+    Xuân kiếm lì xì, Hạ kiếm kem,<br>
+    Thu kiếm hoa sữa, Đông kiếm em.
+  </h2>
 </div>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/677428305a191be6292b953c224eaa14/2b8f60ec92192a15-be/s640x960/9b0a5b52157eddeb084b7a722507e7255de38270.gifv" style="width=800, height=446" alt="Pixel art anime GIF">
+  <img src="https://64.media.tumblr.com/5f60baca8edc9af70e2967059854b8fd/539b7c556f807057-92/s1280x1920/b246932251f2d351bdb3466f5c8e3e31fc306577.gifv" style="width=800, height=446" alt="Pixel art anime GIF">
 </div>
 
 <div align="center">
