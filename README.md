@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://64.media.tumblr.com/49accfa076263daec64764d9024f4363/c66bfd32502d30ed-a9/s2048x3072/4a87603881728516a0dd276c4d42c4a09590cd7e.gifv" style="width=800, height=446" alt="Pixel art anime GIF">
+  <img src="https://64.media.tumblr.com/54d8e8d07215807862cf7f8ada9a7ffe/9200f7a2496ad0ba-26/s540x810/8a56a6a6939a2dae70fb5d46e73924208fc60a36.gifv" style="width=800, height=446" alt="Pixel art anime GIF">
 </div>
 
 <div align="center">
